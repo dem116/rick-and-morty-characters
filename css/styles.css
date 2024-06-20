@@ -73,9 +73,9 @@ table {
 }
 
 ul {  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
   padding-top: 100px;
   list-style: none;
 }
-
-
-
